@@ -9,3 +9,12 @@ https://marcochiu.github.io/20250718_demo/products.html
 
 產品詳情
 https://marcochiu.github.io/20250718_demo/productdetail.html
+
+註冊登入
+https://marcochiu.github.io/20250718_demo/register.html
+
+收藏
+https://marcochiu.github.io/20250718_demo/collect.html
+
+首頁
+https://marcochiu.github.io/20250718_demo/index.html
